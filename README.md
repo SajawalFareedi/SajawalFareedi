@@ -5,18 +5,23 @@
 **🌟 Here are My Core Skills and Expertise: 🌟**
 
 **Front-End Skills:**
+
 *React | JavaScript | jQuery | Bootstrap | CSS & CSS3 | HTML & HTML5 | SASS | SCSS*
 
 **Back-End Skills:**
+
 *NodeJS | ExpressJS | MongoDB | Mongoose | MySQL | PostgresSQL | HBS*
 
 **API Integration:**
+
 *Google APIs | Stripe | PayPal*
 
 **Other Skills:**
+
 *Git | Restful API Development | SEO | AJAX | JSON | XML | Scrapy | Heroku | Github-Pages | PSD to HTML | Figma | Adobe XD | Python | Web Scraping*
 
 **🌟 Top Websites for which I've developed Bots & Scrappers 🌟**
+
 *Discord | OpenSea | Rarible | Facebook | Instagram | Twitter | LinkedIn | Amazon | Walmart | eBay | Fanc | AliExpress | AliBaba*
 
 **🌟 Here are My Core Skills And Expertise (Web Scraping)🌟**
