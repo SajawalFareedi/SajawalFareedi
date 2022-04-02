@@ -25,6 +25,6 @@
 
 Let's connect!
 
-![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)[1]
+[![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)][1]
 
 [1]: https://www.upwork.com/freelancers/~01c25b9d2e61d1a697/
