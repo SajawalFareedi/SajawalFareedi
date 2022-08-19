@@ -1,9 +1,8 @@
 <!-- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=SajawalFareedi&layout=compact) -->
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=SajawalFareedi&count_private=true&show_icons=true" /> -->
 <img align="center" src="https://wakatime.com/share/@21bdcb9b-3ca8-4828-84bb-2eda3f030ae0/2f85bcb5-9a8c-4b38-acfc-07864f0a0fa9.png" />
-
 <br>
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=SajawalFareedi&count_private=true&show_icons=true" />
+<br>
 ## Hi there 👋
 
 **Its Sajawal Fareedi. A fullstack web developer & freelancer. I've 2+ years of experience in MERN Stack. I Have Expert Level Ability in NodeJS | ExpressJS | MongoDB | Mongoose | React | jQuery. Whether you’re trying to win work, list your services or even create a whole online store – I can help.**
