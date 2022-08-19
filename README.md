@@ -25,6 +25,8 @@
 **Other Skills:**
 *Git | API Development | Figma | Adobe XD | Python | Web Scraping | Bots Development*
 
+<hr>
+
 Wanna Connect?
 
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)][1]
