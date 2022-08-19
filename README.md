@@ -28,5 +28,7 @@
 Wanna Connect?
 
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)][1]
-
 [1]: https://www.upwork.com/freelancers/~01c25b9d2e61d1a697/
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][2]
+[2]: https://www.linkedin.com/in/sajawal-fareedi/
