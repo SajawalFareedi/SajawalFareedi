@@ -4,25 +4,25 @@
 <img align="center" src="https://wakatime.com/share/@21bdcb9b-3ca8-4828-84bb-2eda3f030ae0/2f85bcb5-9a8c-4b38-acfc-07864f0a0fa9.png" /> -->
 <br>
 
-## Hey Buddy! 👋
+## Hey! 👋
 
 I'm Sajawal Fareedi. A Python and NodeJS engineer with more than 2 years of contribution.. I Have Expert Level Ability in NodeJS | ExpressJS | MongoDB | ReactJS.
 
 **🌟 Here are My Core Skills and Expertise: 🌟**
 
-**Front-End Skills:**
+**🌟 Frontend Skills:**
 *ReactJS | MUI | Ant Design | jQuery | Bootstrap | Tailwind | SCSS*
 
-**Back-End Skills:**
+**🌟 Backend Skills:**
 *NodeJS | ExpressJS | NextJS | NuxtJS*
 
-**Database Integration:**
+**🌟 Database Integration:**
 *MongoDB | MySQL | PostgresSQL | Sqlite3 | Firebase | Redis*
 
-**Other Integration:**
+**🌟 Other Integration:**
 *Google APIs | Stripe | PayPal | CRMs*
 
-**Other Skills:**
+**🌟 Other Skills:**
 *Git | API Development | Figma | Adobe XD | Python | Web Scraping | Bots Development*
 
 <hr style="height: 1px;">
