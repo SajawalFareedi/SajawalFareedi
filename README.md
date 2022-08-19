@@ -6,7 +6,7 @@
 
 ## Hey Buddy! 👋
 
-**I'm Sajawal Fareedi. A Python and NodeJS engineer with more than 2 years of contribution.. I Have Expert Level Ability in NodeJS | ExpressJS | MongoDB | ReactJS.**
+I'm Sajawal Fareedi. A Python and NodeJS engineer with more than 2 years of contribution.. I Have Expert Level Ability in NodeJS | ExpressJS | MongoDB | ReactJS.
 
 **🌟 Here are My Core Skills and Expertise: 🌟**
 
