@@ -5,7 +5,7 @@
 <br>
 
 ## Hey Buddy! 👋
-
+<hr>
 **I'm Sajawal Fareedi. A Full Stack Web Developer with more than 2 Years of Contribution. I Have Expert Level Ability in NodeJS | ExpressJS | MongoDB | ReactJS.**
 
 **🌟 Here are My Core Skills and Expertise: 🌟**
