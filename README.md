@@ -4,7 +4,7 @@
 <img align="center" src="https://wakatime.com/share/@21bdcb9b-3ca8-4828-84bb-2eda3f030ae0/2f85bcb5-9a8c-4b38-acfc-07864f0a0fa9.png" /> -->
 <br>
 
-## Hey! 👋
+## Hi There! 👋
 
 I'm Sajawal Fareedi. A Python and NodeJS engineer with more than 2 years of contribution.. I Have Expert Level Ability in NodeJS | ExpressJS | MongoDB | ReactJS.
 
