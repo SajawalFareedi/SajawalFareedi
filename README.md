@@ -6,13 +6,13 @@
 
 ## Hi There! 👋
 
-I'm Sajawal Fareedi. A Python and NodeJS engineer with more than 2 years of contribution.. I Have Expert Level Ability in NodeJS | ExpressJS | MongoDB | ReactJS.
+I'm Sajawal Fareedi. A Python and NodeJS engineer with more than 2 years of contribution. I Have Expert Level Ability in NodeJS | ExpressJS | MongoDB | ReactJS.
 
 **🌟 Frontend Skills:**
-*ReactJS | MUI | Ant Design | jQuery | Bootstrap | Tailwind | SCSS*
+*ReactJS | MUI | Ant Design | jQuery | Bootstrap | Tailwind | SCSS | Pug | Jade*
 
 **🌟 Backend Skills:**
-*NodeJS | ExpressJS | NextJS | NuxtJS*
+*NodeJS | ExpressJS | NextJS | NuxtJS | Django*
 
 **🌟 Database Integration:**
 *MongoDB | MySQL | PostgresSQL | Sqlite3 | Firebase | Redis*
@@ -21,7 +21,7 @@ I'm Sajawal Fareedi. A Python and NodeJS engineer with more than 2 years of cont
 *Google APIs | Stripe | PayPal | CRMs*
 
 **🌟 Other Skills:**
-*Git | API Development | Figma | Adobe XD | Python | Web Scraping | Bots Development*
+*Git | API Development | Figma | Adobe XD | Python | Web Scraping | Bots Development | Ethical Hacking[In Progress]*
 
 <hr style="height: 1px;">
 
