@@ -39,6 +39,7 @@
 ┌──┤ THINGS I LOVE ├───────▰▰▰
 │
 ├─◈ Playing Football 😉
+├─◈ Exploring new business ideas 🧐
 ├─◈ Watching Anime (Fav: <a href="https://zoro.to/watch/blue-lock-17889">Blue Lock</a>) 🙄
 ├─◈ Exploring the Universe (Astrophile) 😁
 ├─◈ Spending time alone (introverted) 😎
