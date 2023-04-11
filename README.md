@@ -3,9 +3,9 @@
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
 ├─▣ AI Enthusiast && Backend Developer && Web3 Developer && Freelancer 😎
-├─▣ 19 years old trying to achieve his goals by 21! 😁
+├─▣ 19 years old, working hard to achieve my goals! 😁
 ├─▣ Building <b>Decentralized</b> && <b>Automated</b> World 🌎!
-├─▣ Mostly developing bots for automation! 😜
+├─▣ Mostly developing automation bots! 😜
 ├─▣ I am mostly available at <a href="https://www.upwork.com/freelancers/~01c25b9d2e61d1a697">Upwork</a>
 │
 └───────────────────────────────▰▰▰
@@ -28,12 +28,20 @@
 │
 └───────────────────────────────▰▰▰
 
+┌──┤ FUTURE GOALS ├───────▰▰▰
+│
+├─◈ Entrepreneur 😎
+├─◈ World's best Football player 🙄
+├─◈ Become a better programmer 😂
+│
+└───────────────────────────────▰▰▰
+
 ┌──┤ THINGS I LOVE ├───────▰▰▰
 │
 ├─◈ Playing Football 😉
 ├─◈ Watching Anime (Fav: <a href="https://zoro.to/watch/blue-lock-17889">Blue Lock</a>) 🙄
 ├─◈ Exploring the Universe (Astrophile) 😁
-├─◈ Spending time with myself (introverted) 😎
+├─◈ Spending time alone (introverted) 😎
 ├─◈ Hanging out with my toxic friends 😂
 ├─◈ How can i forget this one?! - Coding! 😍
 │
