@@ -40,9 +40,6 @@
 │
 ├─◈ Playing Football
 ├─◈ Exploring new business ideas
-├─◈ Watching Anime (Fav: <a href="https://zoro.to/blue-lock-17889">Blue Lock</a>)
-├─◈ Exploring the Universe (Astrophile)
-├─◈ Spending time alone (introverted)
 ├─◈ Hanging out with my toxic friends
 ├─◈ How can i forget this one?! - Coding!
 │
