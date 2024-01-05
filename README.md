@@ -3,7 +3,7 @@
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
 ├─▣ AI Enthusiast && Backend Developer && Web3 Developer && Freelancer
-├─▣ 19 years old, working hard to achieve my goals!
+├─▣ 20 years old, working hard to achieve my goals!
 ├─▣ Building <b>Decentralized</b> && <b>Automated</b> World!
 ├─▣ Mostly developing automation bots!
 ├─▣ I am mostly available at <a href="https://www.upwork.com/freelancers/~01c25b9d2e61d1a697">Upwork</a>
