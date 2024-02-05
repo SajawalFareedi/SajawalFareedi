@@ -2,7 +2,7 @@
 
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
-├─▣ AI Enthusiast && Backend Developer && Web3 Developer && Freelancer
+├─▣ AI Enthusiast && FullStack Developer && Web3 Developer && Freelancer
 ├─▣ 20 years old, working hard to achieve my goals!
 ├─▣ Building <b>Decentralized</b> && <b>Automated</b> World!
 ├─▣ Mostly developing automation bots!
