@@ -22,9 +22,13 @@
 │
 ├─◈ <a href="https://github.com/SajawalFareedi/OpenSea-NFT-Buyer">OpenSea Bot</a>
 ├─◈ <a href="https://github.com/SajawalFareedi/insta-scrapper">Instagram Bot</a>
-├─◈ <a href="https://github.com/SajawalFareedi/cero-discord-bot">Cero</a>
-├─◈ <a href="https://github.com/SajawalFareedi/amazon-scraping-bot">Amazon Bot</a>
-├─◈ <a href="https://github.com/SajawalFareedi/enablemint">Enablemint</a>
+├─◈ <a href="https://github.com/SajawalFareedi/cero-discord-bot">Cero (Discord RPG Bot)</a>
+├─◈ <a href="https://github.com/SajawalFareedi/OpenSea_bid_copier">OpenSea Bid Copier</a>
+├─◈ <a href="https://github.com/SajawalFareedi/wallet-front-running-bot">ETH Front Running Bot</a>
+├─◈ <a href="https://github.com/SajawalFareedi/different_telegram_bots">Telegram Bots</a>
+├─◈ <a href="https://github.com/SajawalFareedi/ai_bot_payment_fetcher">Payment Gateway Info Fetcher (AI)</a>
+├─◈ <a href="https://github.com/SajawalFareedi/amazon-scraping-bot">Amazon Product Scraper</a>
+├─◈ <a href="https://github.com/SajawalFareedi/enablemint">Enablemint (LinkedIn Scraper)</a>
 │
 └───────────────────────────────▰▰▰
 
