@@ -2,19 +2,19 @@
 
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
-├─▣ AI Enthusiast && FullStack Developer && Web3 Developer && Freelancer
-├─▣ 20 years old, working hard to achieve my goals!
+├─▣ MERN Stack Developer (w. NextJS) && Web3 Developer && Automation Expert
+├─▣ 21 years old, working hard to achieve my goals!
 ├─▣ Building <b>Decentralized</b> && <b>Automated</b> World!
-├─▣ Mostly developing automation bots!
-├─▣ I am mostly available at <a href="https://www.upwork.com/freelancers/~01c25b9d2e61d1a697">Upwork</a>
+├─▣ Currently working on <a href='https://muntadaaid.org'>Muntada Aid</a>
+├─▣ I'm available on <a href="https://www.upwork.com/freelancers/~01c25b9d2e61d1a697">Upwork</a> as Freelancer
 │
 └───────────────────────────────▰▰▰
 
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
-├─◈ <a href="https://twitter.com/sajawal_fareedi">Twitter</a>
-├─◈ <a href="https://discord.com/users/942686625320804403">Discord</a>
 ├─◈ <a href="https://www.linkedin.com/in/sajawal-fareedi/">LinkedIn</a>
+├─◈ <a href="https://discord.com/users/942686625320804403">Discord</a>
+├─◈ <a href="https://www.instagram.com/sajawal_fareedi">Instagram</a>
 │
 └───────────────────────────────▰▰▰
 
