@@ -13,7 +13,7 @@
 │
 ├─◈ <a target="_blank" href="https://www.linkedin.com/in/sajawal-fareedi/">LinkedIn</a>
 ├─◈ <a target="_blank" href="https://discord.com/users/942686625320804403">Discord</a>
-├─◈ <a target="_blank" href="https://www.instagram.com/sajawal_fareedi">Instagram</a>
+├─◈ <a target="_blank" href="http://t.me/k/#@its_szero">Telegram</a>
 │
 └───────────────────────────────▰▰▰
 
