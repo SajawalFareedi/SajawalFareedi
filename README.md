@@ -5,11 +5,10 @@
 ├─▣ MERN Stack Developer (w. NextJS) && Web3 Developer && Automation Expert
 ├─▣ 21 years old, working hard to achieve my goals!
 ├─▣ Building <b>Decentralized</b> && <b>Automated</b> World!
-<!-- ├─▣ Currently working on <a target="_blank" href='https://muntadaaid.org'>Muntada Aid</a> -->
 ├─▣ I'm always available on <a target="_blank" href="https://www.upwork.com/freelancers/~01c25b9d2e61d1a697">Upwork</a>
 │
 └───────────────────────────────▰▰▰
-
+<!-- ├─▣ Currently working on <a target="_blank" href='https://muntadaaid.org'>Muntada Aid</a> -->
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
 ├─◈ <a target="_blank" href="https://www.linkedin.com/in/sajawal-fareedi/">LinkedIn</a>
