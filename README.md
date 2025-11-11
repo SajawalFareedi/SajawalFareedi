@@ -2,16 +2,16 @@
 <h3 align="center">MERN Stack & Web3 Developer | Building a Decentralized & Automated Future</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sajawal-fareedi/">
+  <a href="https://www.linkedin.com/in/sajawal-fareedi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://discord.com/users/942686625320804403">
+  <a href="https://discord.com/users/942686625320804403" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="http://t.me/k/#@its_szero">
+  <a href="http://t.me/k/#@its_szero" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://www.upwork.com/freelancers/~01c25b9d2e61d1a697">
+  <a href="https://www.upwork.com/freelancers/~01c25b9d2e61d1a697" target="_blank">
     <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" />
   </a>
 </p>
