@@ -1,28 +1,10 @@
-<h1 align="center">👋 Hi, I'm Sajawal Fareedi</h1>
-<h3 align="center">MERN Stack & Web3 Developer | Building a Decentralized & Automated Future</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sajawal-fareedi/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://discord.com/users/942686625320804403" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="http://t.me/k/#@its_szero" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://www.upwork.com/freelancers/~01c25b9d2e61d1a697" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" />
-  </a>
-</p>
-
----
+<h1 align="center">👋 Hey, I'm Saj!</h1>
 
 ## 🚀 About Me
 
-- 🔭 **22 years old** - Passionate about technology and innovation
-- 🌟 **MERN Stack Developer** with expertise in **NextJS** and **Web3 technologies**
-- 🎯 Mission: Building a **decentralized and automated future**
+- 🔭 **23 years old** - Passionate about technology and innovation
+- 🌟 **Senior Software Engineer** with expertise in **Web3 technologies**
+- 🎯 Mission: Building products that provide **value**
 - 💼 Available for freelance opportunities on [Upwork](https://www.upwork.com/freelancers/~01c25b9d2e61d1a697)
 
 ## 🛠️ Tech Stack
@@ -83,55 +65,6 @@
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
 ![Chai](https://img.shields.io/badge/Chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
 
----
-
-## 💻 Featured Projects
-
-### 🤖 Web3 & Blockchain
-| Project | Description | Tech |
-|---------|-------------|------|
-| **[OpenSea NFT Buyer](https://github.com/SajawalFareedi/OpenSea-NFT-Buyer)** | Automated bot for purchasing NFTs on OpenSea | Web3, JavaScript, Node.js, Ethereum |
-| **[ETH Front Running Bot](https://github.com/SajawalFareedi/wallet-front-running-bot)** | Advanced bot for detecting and executing front-running opportunities | Web3, Solidity, Node.js, Hardhat |
-| **[OpenSea Bid Copier](https://github.com/SajawalFareedi/OpenSea_bid_copier)** | Tool for copying bids across multiple NFT collections | Web3, JavaScript, API, MetaMask |
-
-### 🤖 Automation Bots
-| Project | Description | Tech |
-|---------|-------------|------|
-| **[Instagram Bot](https://github.com/SajawalFareedi/insta-scrapper)** | Automation tool for Instagram with scraping features | Python, Selenium, BeautifulSoup |
-| **[Cero Discord RPG Bot](https://github.com/SajawalFareedi/cero-discord-bot)** | Interactive RPG bot for Discord with engaging gameplay | Node.js, Discord.js, MongoDB |
-| **[Telegram Bots](https://github.com/SajawalFareedi/different_telegram_bots)** | Various Telegram bots for different purposes | Python, Telegram API, Redis |
-
-### 🔧 Tools & Utilities
-| Project | Description | Tech |
-|---------|-------------|------|
-| **[Enablemint](https://github.com/SajawalFareedi/enablemint)** | LinkedIn scraping tool for professional data | Node.js, Puppeteer, Express |
-| **[Amazon Product Scraper](https://github.com/SajawalFareedi/amazon-scraping-bot)** | Bot for scraping Amazon product data | Python, BeautifulSoup, Requests |
-| **[Payment Gateway Info Fetcher (AI)](https://github.com/SajawalFareedi/ai_bot_payment_fetcher)** | AI-powered payment gateway information fetcher | Python, AI/ML, FastAPI |
-
----
-
-## 🎯 Future Goals
-
-- 🚀 **Entrepreneur** - Build successful tech businesses
-- ⚽ **World's best Football player** - Passion beyond coding!
-- 💻 **Become a better programmer** - Continuously learn and grow
-- 🌍 **Make impact** - Create solutions that solve real-world problems
-- 🔗 **Web3 Pioneer** - Contribute to decentralized technology evolution
-
----
-
-## ❤️ Interests & Hobbies
-
-- ⚽ **Playing Football** - My favorite sport and stress reliever
-- 💡 **Exploring new business ideas** - Always thinking about the next big thing
-- 👥 **Hanging out with friends** - Even the toxic ones!
-- 💻 **Coding** - My passion and profession
-- 📚 **Learning about emerging technologies**
-- 🔗 **Blockchain Research** - Exploring new Web3 possibilities
-- 🤖 **AI & Automation** - Building smart solutions
-
----
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SajawalFareedi&theme=radical" alt="GitHub Streak" />
@@ -143,8 +76,6 @@
 - 💬 **Discord**: `szero#8388`
 - 📧 **Telegram**: [@its_szero](http://t.me/k/#@its_szero)
 - 👔 **LinkedIn**: [Sajawal Fareedi](https://www.linkedin.com/in/sajawal-fareedi/)
-- 💻 **GitHub**: [SajawalFareedi](https://github.com/SajawalFareedi)
-
 ---
 
 <p align="center">
